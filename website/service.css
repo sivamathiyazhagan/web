@@ -1,0 +1,72 @@
+.header{
+    background-image: url("header.jpg");
+    display:flex;
+}
+p{
+    
+    font-size: xxx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 0px 0px 5px black;
+}
+.navi{
+    background-color:gray;
+    padding: 10px;
+    margin: p;
+
+}
+
+.button{
+
+    background-color:aqua;
+    color:white;
+    border: white;
+    margin: 10px;
+
+
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    background-color: aqua;
+}
+
+.link:hover{
+    background-color: deeppink;
+}
+
+h1{
+    color: deeppink;
+
+}
+
+.page{
+    color: aqua;
+    font-size: medium;
+    padding: 2px;
+    margin: 1px;
+    display: flex;
+
+}
+.web{
+    font-size: medium;
+    color: black;
+    text-shadow: none;
+}
+.navis{
+background-color:#f7f3ee;
+padding: 20px;
+margin: 10px;
+font-size: medium;
+text-shadow: none;
+color: aqua;
+    }
+
+.news{
+    height: 300px;
+    width: 650px;
+}
